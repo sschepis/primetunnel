@@ -1,5 +1,5 @@
 
-function organizePulsarsByPrime(pulsarData) {
+export function organizePulsarsByPrime(pulsarData) {
   const result = {};
   
   pulsarData.forEach(pulsar => {
