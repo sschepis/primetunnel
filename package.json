@@ -1,0 +1,27 @@
+{
+  "name": "prime-tunnel-communication",
+  "version": "0.1.0",
+  "description": "A simulation of nonlocal communication using prime resonance.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node prime-tunnel.js"
+  },
+  "keywords": [
+    "quantum",
+    "communication",
+    "simulation",
+    "nonlocal"
+  ],
+  "author": "Roo",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "prime-resonance.js",
+    "prime-tunnel.js",
+    "pulsar-frequencies.js"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
